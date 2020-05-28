@@ -1,1 +1,1 @@
-# Covid-19-Prediction-Model
+# Covid-19 Prediction Model
